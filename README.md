@@ -57,11 +57,11 @@
 - `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
-\## 📁 Acceso al proyecto
+## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+```Para poder ejecutar correctamente el proyecto basta con seleccionar que el archivo abra con Chrome y listo, o desde el mismo link compartido por medio de LindedIn```
 
-\## 🛠️ Abre y ejecuta el proyecto
+## 🛠️ Abre y ejecuta el proyecto
 
 **Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
