@@ -71,6 +71,20 @@
 - CSS
 
 ## Desarrolladores
-| [<img src="https://github.com/user-attachments/assets/c40faac0-d642-4111-a6fd-4b45b3f980b9" width=115><br><sub>Manuel Stiwen Zambrano</sub>](https://github.com/ManuelZambrano-prog)
+[<img src="https://github.com/user-attachments/assets/c40faac0-d642-4111-a6fd-4b45b3f980b9" width=115><br><sub>Manuel Stiwen Zambrano</sub>](https://github.com/ManuelZambrano-prog)
 
+>[!NOTE]
+>Aqui tenemos una nota especial
+
+>[!TIP]
+>Aqui tienes un tip
+
+>[!IMPORTANT]
+>Aqui hay algo super importante
+
+>[!WARNING]
+>Peligroo
+
+>[!CAUTION]
+>Precaución
 
