@@ -71,7 +71,6 @@
 - CSS
 
 ## Desarrolladores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Manuel Stiwen Zambrano</sub>](https://github.com/ManuelZambrano-prog)
-| :---: | :---: 
+| [<img src="https://github.com/user-attachments/assets/c40faac0-d642-4111-a6fd-4b45b3f980b9" width=115><br><sub>Manuel Stiwen Zambrano</sub>](https://github.com/ManuelZambrano-prog)
 
-  
+
