@@ -1,7 +1,9 @@
-![GitHub Org's stars](https://img.shields.io/github/stars/ManuelZambrano-prog?style=social)
 <p align="center">
    <img src="https://github.com/user-attachments/assets/c7bde09c-d56d-4630-adb5-40ceb363192c" width=200>
 </p>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/ManuelZambrano-prog?style=social)
+
 <h1 align="center"> JUEGO DEL AMIGO SECRETO</h1>
  <p align="center">
    <img src="https://img.shields.io/github/stars/ManuelZambrano-prog?style=social">
